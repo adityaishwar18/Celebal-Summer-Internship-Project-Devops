@@ -1,0 +1,3 @@
+This project demonstrates how to automate the deployment of web applications to Azure Web Apps using a CI/CD pipeline in Azure DevOps. By integrating build, test, and release stages into a single workflow, it enables seamless delivery of application updates from source control to production with minimal manual effort.
+
+The pipeline is configured using a YAML file and supports a variety of tech stacks (Node.js, .NET, Python, etc.). It includes automatic triggering on code changes, build artifact generation, and secure deployment to Azure using a service connection. This setup improves deployment consistency, reduces human error, and accelerates development cycles through continuous integration and delivery best practices.
